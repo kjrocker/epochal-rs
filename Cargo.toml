@@ -1,0 +1,9 @@
+[package]
+name = "epochal"
+version = "0.0.1"
+edition = "2021"
+description = "A very early port of https://github.com/kjrocker/epochal to Rust. Mostly for fun and as a concrete learning exercise."
+license = "MIT"
+
+[dependencies]
+chrono = "0.4.39"
